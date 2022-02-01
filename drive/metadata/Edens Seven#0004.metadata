@@ -1,0 +1,25 @@
+{
+  "721": {
+    "<policy_id>": {
+      "<asset_name>": {
+        "name": "<asset_name>",
+        "image": "<ipfs_link>",
+        "mediaType": "<mime_type>",
+        "files": [
+          {
+            "name": "<asset_name>",
+            "mediaType": "<mime_type>",
+            "src": "<ipfs_link>"
+          }
+        ],
+        "background": "Blue",
+        "accessory": "None",
+        "clothing": "Magician",
+        "weapon": "Big Bang Glove",
+        "race": "Human",
+        "expression": "Ticked Off",
+        "headwear": "Astro Helm"
+      }
+    }
+  }
+}

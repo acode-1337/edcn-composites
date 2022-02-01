@@ -1,0 +1,25 @@
+{
+  "721": {
+    "<policy_id>": {
+      "<asset_name>": {
+        "name": "<asset_name>",
+        "image": "<ipfs_link>",
+        "mediaType": "<mime_type>",
+        "files": [
+          {
+            "name": "<asset_name>",
+            "mediaType": "<mime_type>",
+            "src": "<ipfs_link>"
+          }
+        ],
+        "background": "Red",
+        "accessory": "Sunny Day",
+        "clothing": "Angel Outfit",
+        "weapon": "Lantern Polearm",
+        "race": "Human",
+        "expression": "Normal",
+        "headwear": "Sushi Warrior"
+      }
+    }
+  }
+}

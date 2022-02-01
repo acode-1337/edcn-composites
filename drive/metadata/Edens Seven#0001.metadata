@@ -1,0 +1,25 @@
+{
+  "721": {
+    "<policy_id>": {
+      "<asset_name>": {
+        "name": "<asset_name>",
+        "image": "<ipfs_link>",
+        "mediaType": "<mime_type>",
+        "files": [
+          {
+            "name": "<asset_name>",
+            "mediaType": "<mime_type>",
+            "src": "<ipfs_link>"
+          }
+        ],
+        "background": "Green",
+        "accessory": "Mir's Degraded Book",
+        "clothing": "Admiral's Suit",
+        "weapon": "Rainbow Sword",
+        "race": "Human",
+        "expression": "Umm",
+        "headwear": "Nobody Mask"
+      }
+    }
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "721": {
+    "<policy_id>": {
+      "<asset_name>": {
+        "name": "<asset_name>",
+        "image": "<ipfs_link>",
+        "mediaType": "<mime_type>",
+        "files": [
+          {
+            "name": "<asset_name>",
+            "mediaType": "<mime_type>",
+            "src": "<ipfs_link>"
+          }
+        ],
+        "background": "Purple",
+        "accessory": "Aura of Envy",
+        "clothing": "Debonair Outfit",
+        "weapon": "Flaming Marshmellow",
+        "race": "Human",
+        "expression": "Nervous",
+        "headwear": "Goggles"
+      }
+    }
+  }
+}

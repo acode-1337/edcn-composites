@@ -1,0 +1,25 @@
+{
+  "721": {
+    "<policy_id>": {
+      "<asset_name>": {
+        "name": "<asset_name>",
+        "image": "<ipfs_link>",
+        "mediaType": "<mime_type>",
+        "files": [
+          {
+            "name": "<asset_name>",
+            "mediaType": "<mime_type>",
+            "src": "<ipfs_link>"
+          }
+        ],
+        "background": "Purple",
+        "accessory": "Flame Monarch",
+        "clothing": "Angel Outfit",
+        "weapon": "Imperial Spike",
+        "race": "Human",
+        "expression": "Ticked Off",
+        "headwear": "Third Eye"
+      }
+    }
+  }
+}

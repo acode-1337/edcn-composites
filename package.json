@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "composites": "^1.1.1",
+    "sharp": "^0.29.3"
+  }
+}
